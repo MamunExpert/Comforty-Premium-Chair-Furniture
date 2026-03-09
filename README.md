@@ -4,7 +4,8 @@
 
 <h2>
   Live Demo: [Comforty - Premium Furniture](https://comforty-beryl.vercel.app/)
-/h2>
+</h2>
+
 
 Comforty হচ্ছে একটা **আধুনিক ফার্নিচার ই-কমার্স ওয়েবসাইট** — বিশেষ করে চেয়ার (Wing Chair, Wooden Chair, Desk Chair, Library Chair ইত্যাদি) এর উপর ফোকাস করে। সুন্দর UI/UX, ফাস্ট লোডিং, রেসপনসিভ ডিজাইন এবং ই-কমার্স ফিচার যেমন কার্ট, প্রোডাক্ট ফিল্টার, ফিচার্ড কালেকশন ইত্যাদি আছে।
 
