@@ -41,3 +41,10 @@ Comforty হচ্ছে একটা **আধুনিক ফার্নিচ
 # Clone the repo
 git clone https://github.com/YOUR-USERNAME/comforty.git
 cd comforty
+
+# Install dependencies
+npm install
+# or
+yarn install
+# or
+pnpm install
